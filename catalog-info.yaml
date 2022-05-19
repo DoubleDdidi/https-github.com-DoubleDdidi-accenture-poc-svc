@@ -9,7 +9,7 @@ metadata:
     - url: http://localhost:9000/dashboard?id=poc-backstage-svc
       title: Sonar Dashboard
 spec:
-  type: openapi
+  type: service
   owner: user:guest
   lifecycle: experimental
   definition:
