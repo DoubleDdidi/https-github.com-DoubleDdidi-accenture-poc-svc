@@ -8,6 +8,7 @@ metadata:
   links:
     - url: http://localhost:9000/dashboard?id=poc-backstage-svc
       title: Sonar Dashboard
+      icon: sonarqube
 spec:
   type: service
   owner: user:guest
