@@ -3,6 +3,9 @@ kind: Component
 metadata:
   name: "accenture-poc-svc"
   description: "accenture poc"
+  tags:
+    - java
+    - node
   annotations:
     sonarqube.org/project-key: poc-backstage-svc
   links:
