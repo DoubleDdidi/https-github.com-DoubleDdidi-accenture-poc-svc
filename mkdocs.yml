@@ -1,9 +1,0 @@
-site_name: "testing"
-site_description: "testing"
-
-nav:
-  - Soap:
-      - ifaz_IGestionarRepartoTalleres.consultarLocalidades.md
-
-plugins:
-  - techdocs-core
