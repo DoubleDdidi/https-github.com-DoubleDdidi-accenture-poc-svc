@@ -8,6 +8,7 @@ metadata:
     - node
   annotations:
     sonarqube.org/project-key: poc-backstage-svc
+    github.com/project-slug: DoubleDdidi/docs
     backstage.io/techdocs-ref: dir:.
 
   links:
