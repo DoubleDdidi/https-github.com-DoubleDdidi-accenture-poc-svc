@@ -8,8 +8,6 @@ metadata:
     - node
   annotations:
     sonarqube.org/project-key: poc-backstage-svc
-    github.com/project-slug: DoubleDdidi/documentations
-    backstage.io/techdocs-ref: dir:.
   links:
     - url: http://localhost:9000/dashboard?id=poc-backstage-svc
       title: Sonar Dashboard
