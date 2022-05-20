@@ -7,7 +7,7 @@ metadata:
     - java
     - node
   annotations:
-    sonarqube.org/project-key: poc-backstage-svc
+    sonarqube.org/project-key: DoubleDdidi_poc-test-svc
   links:
     - url: http://localhost:9000/dashboard?id=poc-backstage-svc
       title: Sonar Dashboard
