@@ -2,6 +2,7 @@ apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
   name: "accenture-poc-svc"
+  description: "accenture poc"
   annotations:
     sonarqube.org/project-key: poc-backstage-svc
   links:
