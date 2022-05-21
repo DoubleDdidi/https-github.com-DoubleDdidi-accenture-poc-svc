@@ -10,7 +10,7 @@ metadata:
     sonarqube.org/project-key: DoubleDdidi_poc-test-svc
     backstage.io/techdocs-ref: dir:.
   links:
-    - url: http://localhost:9000/dashboard?id=poc-backstage-svc
+    - url: https://sonarcloud.io/organizations/deodato/projects
       title: Sonar Dashboard
       icon: sonarqube
     - url: https://github.com/OAI/OpenAPI-Specification/blob/master/examples/v3.0/petstore.yaml
