@@ -2,7 +2,6 @@ site_name: "docs-poc-svc"
 site_description: "Documents examples"
 
 nav:
-  - Introduction: index.md
   - Soap:
       - ifaz_interfaz_local.md
   - Rest:
