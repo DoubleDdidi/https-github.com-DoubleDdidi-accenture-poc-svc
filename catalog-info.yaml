@@ -17,7 +17,7 @@ metadata:
       title: API Spec
       icon: code    
 spec:
-  type: openapi
+  type: service
   owner: user:guest
   lifecycle: experimental
   definition:
