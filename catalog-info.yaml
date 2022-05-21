@@ -17,7 +17,11 @@ metadata:
       title: API Spec
       icon: code    
 spec:
-  type: service
+  type: 
+    - service
+    - openapi
   owner: user:guest
   lifecycle: experimental
+  definition:
+    $text: https://github.com/APIs-guru/openapi-directory/blob/main/APIs/archive.org/search/1.0.0/openapi.yaml
 
