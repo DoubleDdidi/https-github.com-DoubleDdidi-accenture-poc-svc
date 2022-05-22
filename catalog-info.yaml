@@ -9,6 +9,7 @@ metadata:
   annotations:
     sonarqube.org/project-key: DoubleDdidi_poc-test-svc
     backstage.io/techdocs-ref: dir:.
+    jenkins.io/github-folder: 'backstage-demo/job/poc-accenture-svc'
   links:
     - url: https://sonarcloud.io/organizations/deodato/projects
       title: Sonar Dashboard
