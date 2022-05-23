@@ -8,7 +8,7 @@ metadata:
     - node
   annotations:
     sonarqube.org/project-key: DoubleDdidi_poc-test-svc
-    github.com/project-slug: 'https-github.com-DoubleDdidi-accenture-poc-svc'
+    github.com/project-slug: 'DoubleDdidi/https-github.com-DoubleDdidi-accenture-poc-svc'
     backstage.io/techdocs-ref: dir:.
     jenkins.io/github-folder: 'deodato/https-github.com-DoubleDdidi-accenture-poc-svc'
   links:
