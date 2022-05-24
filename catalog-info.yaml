@@ -3,6 +3,8 @@ kind: Component
 metadata:
   name: "accenture-poc-svc"
   description: "accenture poc"
+  dependsOn:
+    - accenture-poc-api
   tags:
     - java
     - node
