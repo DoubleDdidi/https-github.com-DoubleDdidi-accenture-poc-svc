@@ -4,7 +4,7 @@ metadata:
   name: "accenture-poc-svc"
   description: "accenture poc"
   dependsOn:
-    - accenture-poc-api
+    - searcher
   tags:
     - java
     - node
