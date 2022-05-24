@@ -27,7 +27,7 @@ spec:
   dependsOn:
     - component:searcher
   dependencyOf:
-    - resource:default/docs
+    - component:core-services-svc
   definition:
     $text: https://github.com/APIs-guru/openapi-directory/blob/main/APIs/archive.org/search/1.0.0/openapi.yaml
 
