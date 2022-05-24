@@ -3,8 +3,6 @@ kind: Component
 metadata:
   name: "accenture-poc-svc"
   description: "accenture poc"
-  dependsOn:
-    - searcher
   tags:
     - java
     - node
@@ -26,6 +24,8 @@ spec:
   lifecycle: experimental
   providesApis:
     - AccenturePoc
+  dependsOn:
+    - searcher
   definition:
     $text: https://github.com/APIs-guru/openapi-directory/blob/main/APIs/archive.org/search/1.0.0/openapi.yaml
 
