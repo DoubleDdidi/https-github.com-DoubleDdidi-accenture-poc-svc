@@ -26,6 +26,8 @@ spec:
     - AccenturePoc
   dependsOn:
     - component:searcher
+  dependencyOf:
+    - component:petstore
   definition:
     $text: https://github.com/APIs-guru/openapi-directory/blob/main/APIs/archive.org/search/1.0.0/openapi.yaml
 
