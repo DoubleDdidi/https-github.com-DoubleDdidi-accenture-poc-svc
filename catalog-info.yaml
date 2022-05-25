@@ -7,6 +7,7 @@ metadata:
     - java
     - node
   annotations:
+    github.com/project-slug: 'DoubleDdidi/https-github.com-DoubleDdidi-accenture-poc-svc'
     sonarqube.org/project-key: DoubleDdidi_poc-test-svc
     backstage.io/techdocs-ref: dir:.
     jenkins.io/github-folder: 'DoubleDdidi/https-github.com-DoubleDdidi-accenture-poc-svc'
